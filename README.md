@@ -9,19 +9,24 @@
 
 ## tech
 can - C, C++, Python
+
 use - Java Script, Type Script, PHP, Java
 
 ## skill
 can - Flask, Apache
+
 use - Docker, AWS, Ngnix
 
 ## system
 can - window, ubuntu, kali
+
 use - tails, macOS
 
 ## tool
 can - VIM, Visual studio code, Visual studio, Adobe series, Pycharm
+
 use - Oracle DB, My SQL
+
 sec - Wire shark, Cisco Packet Tracer
 
 ## learn
@@ -29,7 +34,8 @@ Go, Java Script, Type Script
 
 ## work
 can - Notion, github
+
 use - slack
 
 ## contact
-mail - 
+mail - gump71036969@gmail.com
