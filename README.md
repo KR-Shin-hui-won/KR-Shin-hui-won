@@ -11,27 +11,29 @@
 #### [sub] : 사용해 보거나, 가끔 사용하는 것입니다.
 #### [learn] : 배우고 있거나, 배우고 싶은 것입니다.
 
-## Tech ⚙
+* * *
+
+# Tech ⚙
 main : C, Python
 
 sub : Shell Script, PHP, Java, Java Script, Type Script, C++ 
 
 learn : C#, Go, Java script, Type Script
 
-## Skill & Tool 🛠
+# Skill & Tool 🛠
 main : Cisco Packet Tracer, Apache, Flask, burp suit
 
 sub : Oracle DB, MYSQL, Ollydbg, Wire Shark
 
 learn : Ghidra
 
-## System 💻
+# System 💻
 Windows, Ubuntu, Kali
 
-## IDE/Edit 🧰
+# IDE/Edit 🧰
 Vim, Visual Studio Code, Visual Studio, Pycharm
 
-## Contact ☜(ﾟヮﾟ☜)
+# Contact ☜(ﾟヮﾟ☜)
 Own mail - gump71036969@gmail.com
 
 Team mail - team.info422@gmail.com
