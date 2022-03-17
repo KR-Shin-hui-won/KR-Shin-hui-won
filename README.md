@@ -33,4 +33,5 @@ Vim, Visual Studio Code, Visual Studio, Pycharm
 
 ## Contact ☜(ﾟヮﾟ☜)
 Own mail - gump71036969@gmail.com
+
 Team mail - team.info422@gmail.com
