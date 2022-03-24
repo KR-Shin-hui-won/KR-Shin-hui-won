@@ -21,9 +21,9 @@ sub : Shell Script, PHP, Java, Java Script, Type Script, C++
 learn : C#, Go, Java script, Type Script
 
 # Skill & Tool 🛠
-main : Apache, Flask, burp suite, 
+main : Apache, Flask, burp suite, Git, Github, Notion, OWASP ZAP, HxD
 
-sub : Oracle DB, MYSQL, Ollydbg, Wire Shark, Cisco Packet Tracer
+sub : Oracle DB, MYSQL, Ollydbg, Wire Shark, Cisco Packet Tracer, Frida, IDA, 
 
 learn : Ghidra
 
