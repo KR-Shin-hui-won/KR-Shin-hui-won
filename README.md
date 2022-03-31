@@ -23,7 +23,7 @@ learn : C#, Go, Java script, Type Script
 # Skill & Tool 🛠
 main : Apache, Flask, burp suite, Git, Github, Notion, OWASP ZAP, HxD
 
-sub : Oracle DB, MYSQL, Ollydbg, Wire Shark, Cisco Packet Tracer, Frida, IDA, Ettercap, Metasploit, John the Ripper, Hashcat, SQL MAP, Nikto
+sub : Oracle DB, MYSQL, Ollydbg, Wire Shark, Cisco Packet Tracer, Frida, IDA, Ettercap, Metasploit, John the Ripper, Hashcat, SQL MAP, Nikto, WinDbg
 
 learn : Ghidra
 
