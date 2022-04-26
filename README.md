@@ -14,14 +14,14 @@
 * * *
 
 # Tech ⚙
-main : C, Python
+main : C/C++, Python
 
-sub : Shell Script, PHP, Java, Java Script, Type Script, C++ 
+sub : Shell Script, PHP, Java, Java Script, Type Script 
 
-learn : C#, Go, Java script, Type Script
+learn : C#, Go
 
 # Skill & Tool 🛠
-main : Apache, Flask, burp suite, Git, Github, Notion, OWASP ZAP, HxD
+main : Apache, Flask, burp suite, Git, Github, Notion, OWASP ZAP, HxD, nmap
 
 sub : Oracle DB, MYSQL, Ollydbg, Wire Shark, Cisco Packet Tracer, Frida, IDA, Ettercap, Metasploit, John the Ripper, Hashcat, SQL MAP, Nikto, WinDbg
 
