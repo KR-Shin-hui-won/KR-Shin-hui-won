@@ -23,7 +23,7 @@ learn : C#, Go
 # Skill & Tool 🛠
 main : Apache, Flask, burp suite, Git, Github, Notion, OWASP ZAP, HxD, nmap
 
-sub : Oracle DB, MYSQL, Ollydbg, Wire Shark, Cisco Packet Tracer, Frida, IDA, Ettercap, Metasploit, John the Ripper, Hashcat, SQL MAP, Nikto, WinDbg. AutoPsy, FTK_image, tcmd, fast_hash
+sub : Oracle DB, MYSQL, Ollydbg, Wire Shark, Cisco Packet Tracer, IDA, Ettercap, Metasploit, John the Ripper, Hashcat, SQL MAP, Nikto, WinDbg. AutoPsy, FTK_image, tcmd, fast_hash
 
 learn : Ghidra
 
