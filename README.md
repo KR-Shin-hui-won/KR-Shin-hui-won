@@ -25,7 +25,7 @@ main : Apache, Flask, burp suite, Git, Github, Notion, OWASP ZAP, HxD, nmap
 
 sub : Oracle DB, MYSQL, Ollydbg, Wire Shark, Cisco Packet Tracer, IDA, Ettercap, hping3, Metasploit, John the Ripper, Hashcat, SQL MAP, Nikto, WinDbg. AutoPsy, FTK_image, tcmd, fast_hash
 
-learn : Ghidra
+learn : Ghidra, AWS, Datadog
 
 # System 💻
 Windows, Ubuntu, Kali
