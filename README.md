@@ -21,9 +21,9 @@ sub : Shell Script, PHP, Java, Java Script, Type Script
 learn : C#, Go
 
 # Skill & Tool 🛠
-main : Apache, Flask, burp suite, Git(hub), Notion, OWASP ZAP, HxD, nmap
+main : Apache, Flask, burp suite, Git(hub), Notion, OWASP ZAP, HxD, nmap, VMware
 
-sub : Oracle DB, MYSQL, Ollydbg, Wire Shark, Cisco Packet Tracer, IDA, Ettercap, hping3, Metasploit, John the Ripper, Hashcat, SQL MAP, Nikto, WinDbg. AutoPsy, FTK_image, tcmd, fast_hash, AWS
+sub : Oracle DB, MYSQL, Ollydbg, Wire Shark, Cisco Packet Tracer, IDA, Ettercap, hping3, Metasploit, John the Ripper, Hashcat, SQL MAP, Nikto, WinDbg. AutoPsy, FTK_image, tcmd, fast_hash, AWS, Docker
 
 learn : Ghidra, Datadog
 
